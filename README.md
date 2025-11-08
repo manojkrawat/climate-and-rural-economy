@@ -4,7 +4,8 @@ Carbon Credit Methodology and Framework for India and Global Markets
 Version: 1.0 (November 2025)  
 Author: Manoj Kumar Rawat  
 Email: mkrawat@gmail.com  
-ORCID: https://orcid.org/0009-0005-5571-7820  
+ORCID: https://orcid.org/0009-0005-5571-7820 
+Google Scholar Profile	https://scholar.google.com/citations?user=eExuM4QAAAAJ
 License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ------------------------------------------------------------
@@ -35,11 +36,14 @@ Financial Evaluation:
 • Sensitivity analysis: carbon price, discount rate, OPEX
 • Users should adapt models with updated emission factors, carbon pricing or policies
 
-Sources:  
-• IPCC 2006 Volume 2 & 4  
-• CEA Baseline Database v17 (India)  
-• FAOSTAT, Forest Survey of India (FSI), MNRE India  
-• Verra VCS, Gold Standard methodologies  
+Associated Research Outputs / Repositories
+
+Figshare DOI	https://doi.org/10.6084/m9.figshare.30509672
+Zenodo DOI	https://doi.org/10.5281/zenodo.17246953
+OSF (Open Science Framework) DOI	https://doi.org/10.17605/OSF.IO/PEKU3
+SSRN working paper	https://papers.ssrn.com/abstract=5693642
+Dataset DOI (Harvard Dataverse) 	https://doi.org/10.7910/DVN/W2D7H2
+ISBN (Paperback): 978-93-343-6282-4 | ISBN (eBook): 978-93-343-7713-2
 
 ------------------------------------------------------------
 4. Disclaimer (No Warranty)
